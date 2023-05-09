@@ -1,0 +1,1 @@
+Esse repositório contém os algoritmos desenvolvidos no curso Lógica de Programação do canal Bóson Treinamentos
